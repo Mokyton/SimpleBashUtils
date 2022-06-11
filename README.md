@@ -1,2 +1,2 @@
 # SimpleBashUtils
-Implementation of cat and grep
+Implementation of basic Bash utilities cat and grep
